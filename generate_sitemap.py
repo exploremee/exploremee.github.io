@@ -2,7 +2,7 @@ import os
 from datetime import datetime, timedelta
 
 # URL dasar situs GitHub Pages Anda
-BASE_URL = "https://exploremee.github.io/"
+BASE_URL = "https://exploremee.github.io"
 
 # Folder tempat artikel disimpan (ubah jika berbeda)
 CONTENT_DIR = "."
